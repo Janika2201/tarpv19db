@@ -1,0 +1,13 @@
+C:\Users\Admin\Source\Repos\tarpv19db\tarpv19db\bin\Debug\AppData\andmed.mdf
+C:\Users\Admin\Source\Repos\tarpv19db\tarpv19db\bin\Debug\AppData\andmed_log.ldf
+C:\Users\Admin\Source\Repos\tarpv19db\tarpv19db\bin\Debug\tarpv19db.exe.config
+C:\Users\Admin\Source\Repos\tarpv19db\tarpv19db\bin\Debug\tarpv19db.exe
+C:\Users\Admin\Source\Repos\tarpv19db\tarpv19db\bin\Debug\tarpv19db.pdb
+C:\Users\Admin\Source\Repos\tarpv19db\tarpv19db\obj\Debug\tarpv19db.csprojAssemblyReference.cache
+C:\Users\Admin\Source\Repos\tarpv19db\tarpv19db\obj\Debug\tarpv19db.Form1.resources
+C:\Users\Admin\Source\Repos\tarpv19db\tarpv19db\obj\Debug\tarpv19db.Properties.Resources.resources
+C:\Users\Admin\Source\Repos\tarpv19db\tarpv19db\obj\Debug\tarpv19db.csproj.GenerateResource.cache
+C:\Users\Admin\Source\Repos\tarpv19db\tarpv19db\obj\Debug\tarpv19db.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Source\Repos\tarpv19db\tarpv19db\obj\Debug\tarpv19db.exe
+C:\Users\Admin\Source\Repos\tarpv19db\tarpv19db\obj\Debug\tarpv19db.pdb
+C:\Users\Admin\Source\Repos\tarpv19db\tarpv19db\obj\Debug\tarpv19db.avtorizForm.resources
